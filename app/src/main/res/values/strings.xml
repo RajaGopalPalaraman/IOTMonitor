@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IOTMonitor</string>
+    <string name="password">Password</string>
+    <string name="userID">UserName</string>
+    <string name="login">Login</string>
+    <string name="inCorrectLoginCredentials">Incorrect Login Credentials!!</string>
+    <string name="cantBeEmpty">UserName and Password Fields can\'t be empty!!</string>
+    <string name="heartBeat">Heart Beat&#160;&#160;&#160;:&#160;&#160;%s</string>
+    <string name="temp">Temperature&#160;&#160;&#160;&#160;&#160;&#160;:&#160;&#160;%s</string>
+</resources>
